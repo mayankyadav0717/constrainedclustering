@@ -1,0 +1,26 @@
+Group Name:- T05
+
+Group members: 
+Indrajit Bhattacharyya 
+Darpan Dahal 
+Mayank Yadav
+Johanthan Preim
+
+Step:- 1
+Please, go to the project directory 
+
+
+Step:- 2  
+In order to run the project please install the required libraries from requirements.txt file. 
+
+
+Step:- 3
+
+Once the required libraries are installed. Please enter in cmd
+    python main.py --k 500 --query 12
+
+here k is the number of closer data points  that wie want to select from query data point. 
+
+for example: we want to select 500 nearest data points we want to select from the data point 12(row number) in our dataframe. 
+
+Thank you so much
